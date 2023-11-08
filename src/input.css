@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* --color-primary: rgb(255 115 179);
+      --color-secondary: rgb(111 114 185); */
+    --color-primary: 31deg 77% 52%;
+    --color-secondary: 184deg 100% 22%;
+    --color-third: 179deg 100% 13%;
+    /* ... */
+  }
+}
